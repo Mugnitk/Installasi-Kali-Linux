@@ -16,6 +16,24 @@
      ![Screenshot 2024-09-11 091049](https://github.com/user-attachments/assets/a19689fa-1a36-4d92-8c18-063b9659b033)
   5. Lanjutkan dengan klik continue, dan apabila ada tampilan untuk mengisi username dan password, bisa diisi sesuai kebutuhan.
      ![Screenshot 2024-09-11 091214](https://github.com/user-attachments/assets/83303639-e500-462d-9fca-7ffaa0360793)
+     ![Screenshot 2024-09-11 091759](https://github.com/user-attachments/assets/9ba2bc84-775c-4aea-8cb0-1502236d6e44)
+     ![Screenshot 2024-09-11 091816](https://github.com/user-attachments/assets/9f9491e4-924e-4402-ab66-2850f294dda2)
+     ![Screenshot 2024-09-11 091845](https://github.com/user-attachments/assets/1d06f5c9-ff57-45e4-b228-7f751695b1da)
+     ![Screenshot 2024-09-11 092013](https://github.com/user-attachments/assets/982ee0ac-9ed2-425b-9ecc-fcfd336a410a)
+     ![Screenshot 2024-09-11 092041](https://github.com/user-attachments/assets/509cb7ab-afbc-4a6e-8f00-db7a673fa08f)
+  6. Apabila sudah selesai maka tunggu proses installasi
+     ![Screenshot 2024-09-11 092103](https://github.com/user-attachments/assets/497a7f7b-7761-45cd-84b0-33bf1a902428)
+  7. Masukkan Username dan Password yang telah dibuat sebelumnya
+     ![Screenshot 2024-09-11 110925](https://github.com/user-attachments/assets/16b55be6-3d33-438b-abba-2a943bfe9773)
+  8. Prose Installasi Kali Linux di Virtual Machine telah berhasil, ini adalah tampilan awal dari Kali Linux
+
+
+
+
+
+     
+
+     
 
 
 
